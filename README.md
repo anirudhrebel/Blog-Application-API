@@ -117,6 +117,19 @@ The API uses standard HTTP methods to retrieve, create, update, and delete data,
 - **Comment Management**
   - Endpoint for Retrieving Comments
   - Endpoint for Deleting Comments
+ 
+
+  **🔐 Security & Authentication**
+Uses JWT-based authentication for secure login.
+
+Role-based access control for users.
+
+**🎯 Future Improvements**
+✅ Add recurring expense tracking.
+
+✅ Integrate budgeting features.
+
+✅ Generate detailed expense reports.
 
 
 
@@ -131,3 +144,12 @@ If you have any ideas on how to improve this resume, please feel free to fork th
 In addition to contributing to the repository, you can also connect with me for further development and collaboration on this API. Together, we can continue to improve and evolve the API to meet the needs of the community.
 
 We encourage you to give the repository a star and we thank you for your interest in this project. 
+
+
+**📬 Contact**
+👤 GADDEY ANIRUDH
+📧 Email: anirudhrebel0@gmail.com
+🔗 GitHub: [GitHub](https://github.com/anirudhrebel/Expense-Tracker-API)
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gaddeyanirudh/)
+
+**⭐ If you find this project useful, don’t forget to give it a star! 🚀✨**
